@@ -1,11 +1,11 @@
 import { SafeAreaView, StatusBar, Text, View } from "react-native";
 
-export default function Home() {
+export default function Create() {
     return (
         <SafeAreaView>
             <StatusBar/>
             <View>
-                <Text>You are in home</Text>
+                <Text>Create anything page</Text>
             </View>
         </SafeAreaView>
     )
